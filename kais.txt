@@ -7,3 +7,6 @@ test stash
 test merge branch
 
 test rebase branch
+
+
+new test merge branch
