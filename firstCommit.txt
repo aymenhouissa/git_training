@@ -12,4 +12,4 @@ Kais Kais
 
 Kais conflict
 
-melek resolve conflict
+melek : i have to resolve commitmelek resolve conflict
