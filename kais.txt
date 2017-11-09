@@ -5,3 +5,5 @@ test commit
 test stash
 
 test merge branch
+
+test rebase branch
