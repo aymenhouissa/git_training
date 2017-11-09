@@ -14,3 +14,5 @@ create conflict
 
 
 Kais conflict
+
+melek : i have to resolve commitmelek resolve conflict
