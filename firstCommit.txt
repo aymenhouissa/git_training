@@ -1,15 +1,25 @@
 hello everybody ! Welcome to Elyssa :D 
+hello everybody !
+Hiii !
 
-<<<<<<< HEAD
+
+
+
+
+Hello METRO from Tunisia :D :p 
+
+
+create conflict 
+
 hello c oumayma test conflit
 Hello METRO from Tunisia :D :p 
 create conflict 
 test houcine
 
 Kais Kais
-=======
 
 
-Kais conflict
+
+
 
 melek : i have to resolve commitmelek resolve conflict
