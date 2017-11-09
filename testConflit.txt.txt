@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 test conflit
-=======
+new conflit
 test conflit
 
+test conflit
 testConflict2
->>>>>>> da1c80997bda358d4cf42e4304e7d45d42ebdd9b
