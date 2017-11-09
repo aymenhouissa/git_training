@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 test conflit
 new conflit
+test conflit
 
 test conflit
 testConflict2
